@@ -1,5 +1,6 @@
 {
-    "files.associations": {
-        "param.h": "c"
-    }
+  "files.associations": {
+    "param.h": "c"
+  },
+  "C_Cpp_Runner.msvcBatchPath": ""
 }
